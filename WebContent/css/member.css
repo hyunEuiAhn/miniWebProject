@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+td {
+	font-size:10pt;
+}
+
+.addressA:link{color:black; text-decoration : none;}
+.addressA:visible{color:black; text-decoration : none;}
+.addressA:hover{color:green; text-decoration : underline;}
+.addressA:active{color : black; text-decoration : none;}
+
